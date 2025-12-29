@@ -2,12 +2,6 @@
 
 Some simple C# projects:
 
-## [Clean Architecture Skeleton](/_Clean_Arch_/)
-A simple skeleton to create new projects based on the Clean Architecture. <br>
-<img src="_Clean_Arch_/_screenshot.jpg" width="340">
-<br>
-<br>
-
 ## [Exercises](/Exercises/)
 Some C# exercises, such as algorithms and problem solving. Just for fun! =] <br>
 <img src="Exercises/_screenshot.jpg" width="340">
@@ -19,3 +13,4 @@ Some C# exercises, such as algorithms and problem solving. Just for fun! =] <br>
 <br>
 <br>
  
+
