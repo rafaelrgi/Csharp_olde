@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repos\\Csharp\\Exercises\\",
+  "WorkspaceRootPath": "D:\\Repos\\csharp\\_csharp_olde_\\Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44642B1B-06CA-4347-988E-EE4152C5CA3D}|Src\\Src.csproj|d:\\repos\\csharp\\exercises\\src\\sortarraymanually.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44642B1B-06CA-4347-988E-EE4152C5CA3D}|Src\\Src.csproj|d:\\repos\\csharp\\_csharp_olde_\\exercises\\src\\smallestintnotinarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44642B1B-06CA-4347-988E-EE4152C5CA3D}|Src\\Src.csproj|solutionrelative:src\\smallestintnotinarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44642B1B-06CA-4347-988E-EE4152C5CA3D}|Src\\Src.csproj|d:\\repos\\csharp\\_csharp_olde_\\exercises\\src\\sortarraymanually.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44642B1B-06CA-4347-988E-EE4152C5CA3D}|Src\\Src.csproj|solutionrelative:src\\sortarraymanually.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SmallestIntNotInArray.cs",
+              "DocumentMoniker": "D:\\Repos\\csharp\\_csharp_olde_\\Exercises\\Src\\SmallestIntNotInArray.cs",
+              "RelativeDocumentMoniker": "Src\\SmallestIntNotInArray.cs",
+              "ToolTip": "D:\\Repos\\csharp\\_csharp_olde_\\Exercises\\Src\\SmallestIntNotInArray.cs",
+              "RelativeToolTip": "Src\\SmallestIntNotInArray.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:31:41.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SortArrayManually.cs",
-              "DocumentMoniker": "D:\\Repos\\Csharp\\Exercises\\Src\\SortArrayManually.cs",
+              "DocumentMoniker": "D:\\Repos\\csharp\\_csharp_olde_\\Exercises\\Src\\SortArrayManually.cs",
               "RelativeDocumentMoniker": "Src\\SortArrayManually.cs",
-              "ToolTip": "D:\\Repos\\Csharp\\Exercises\\Src\\SortArrayManually.cs",
+              "ToolTip": "D:\\Repos\\csharp\\_csharp_olde_\\Exercises\\Src\\SortArrayManually.cs",
               "RelativeToolTip": "Src\\SortArrayManually.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
